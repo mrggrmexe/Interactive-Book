@@ -1,0 +1,17 @@
+D:\Work\Interactive-Book\InteractiveBook\InteractiveBook\bin\Debug\net6.0-windows\InteractiveBook.exe
+D:\Work\Interactive-Book\InteractiveBook\InteractiveBook\bin\Debug\net6.0-windows\InteractiveBook.deps.json
+D:\Work\Interactive-Book\InteractiveBook\InteractiveBook\bin\Debug\net6.0-windows\InteractiveBook.runtimeconfig.json
+D:\Work\Interactive-Book\InteractiveBook\InteractiveBook\bin\Debug\net6.0-windows\InteractiveBook.dll
+D:\Work\Interactive-Book\InteractiveBook\InteractiveBook\bin\Debug\net6.0-windows\InteractiveBook.pdb
+D:\Work\Interactive-Book\InteractiveBook\InteractiveBook\obj\Debug\net6.0-windows\InteractiveBook.csproj.AssemblyReference.cache
+D:\Work\Interactive-Book\InteractiveBook\InteractiveBook\obj\Debug\net6.0-windows\InteractiveBook.Form1.resources
+D:\Work\Interactive-Book\InteractiveBook\InteractiveBook\obj\Debug\net6.0-windows\InteractiveBook.csproj.GenerateResource.cache
+D:\Work\Interactive-Book\InteractiveBook\InteractiveBook\obj\Debug\net6.0-windows\InteractiveBook.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Interactive-Book\InteractiveBook\InteractiveBook\obj\Debug\net6.0-windows\InteractiveBook.AssemblyInfoInputs.cache
+D:\Work\Interactive-Book\InteractiveBook\InteractiveBook\obj\Debug\net6.0-windows\InteractiveBook.AssemblyInfo.cs
+D:\Work\Interactive-Book\InteractiveBook\InteractiveBook\obj\Debug\net6.0-windows\InteractiveBook.csproj.CoreCompileInputs.cache
+D:\Work\Interactive-Book\InteractiveBook\InteractiveBook\obj\Debug\net6.0-windows\InteractiveBook.dll
+D:\Work\Interactive-Book\InteractiveBook\InteractiveBook\obj\Debug\net6.0-windows\refint\InteractiveBook.dll
+D:\Work\Interactive-Book\InteractiveBook\InteractiveBook\obj\Debug\net6.0-windows\InteractiveBook.pdb
+D:\Work\Interactive-Book\InteractiveBook\InteractiveBook\obj\Debug\net6.0-windows\InteractiveBook.genruntimeconfig.cache
+D:\Work\Interactive-Book\InteractiveBook\InteractiveBook\obj\Debug\net6.0-windows\ref\InteractiveBook.dll
