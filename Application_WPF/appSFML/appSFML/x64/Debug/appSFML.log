@@ -1,2 +1,2 @@
-﻿  Source.cpp
-  appSFML.vcxproj -> D:\Work\Interactive-Book\Application_WPF\appSFML\x64\Debug\appSFML.exe
+﻿tslButton.obj : error LNK2005: "class Point __cdecl mousePos(class sf::RenderWindow &)" (?mousePos@@YA?AVPoint@@AEAVRenderWindow@sf@@@Z) already defined in Source.obj
+D:\Work\Interactive-Book\Application_WPF\appSFML\x64\Debug\appSFML.exe : fatal error LNK1169: one or more multiply defined symbols found

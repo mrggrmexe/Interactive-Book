@@ -28,7 +28,7 @@ namespace InteractiveBook
 
         private void MenuRectClicked(object sender, MouseButtonEventArgs e)
         {
-            System.Console.WriteLine(e.GetPosition(this).X);
+            
         }
     }
 }
