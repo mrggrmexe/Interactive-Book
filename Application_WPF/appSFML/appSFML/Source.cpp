@@ -1,4 +1,3 @@
-#include <SFML/Graphics.hpp>
 #include <iostream>
 #include "Header.h"
 
@@ -27,7 +26,7 @@ int main()
 
         if (event.type == sf::Event::MouseButtonPressed) {
             sf::Time delayTime = sf::milliseconds(150);
-            if (b1.isClicked(mousePos(window))) {
+            if (b1.isClicked()) {
                 std::cout << 1 << std::endl;
             }
             sf::sleep(delayTime);

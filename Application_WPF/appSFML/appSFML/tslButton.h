@@ -1,7 +1,7 @@
-#include <SFML/Graphics.hpp>
-#include <string>
-#include "Point.h"
 #pragma once
+#include <string>
+#include <SFML/Graphics.hpp>
+#include "Point.h"
 
 
 class tslButton {
@@ -16,7 +16,7 @@ public:
 	void setFontSize(int _fontSize);
 	void setColorText(sf::Color _colorText);
 
-	bool isClicked(Point clickPosition);
+	bool isClicked();
 
 private:
 

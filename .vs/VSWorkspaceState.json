@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Application_WPF",
+    "\\Application_WPF\\appSFML",
+    "\\Application_WPF\\appSFML\\appSFML",
+    "\\Application_WPF\\appSFML\\appSFML\\SFML-2.5.1"
+  ],
+  "SelectedNode": "\\Application_WPF\\appSFML\\appSFML\\Source.cpp",
+  "PreviewInSolutionExplorer": false
+}

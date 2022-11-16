@@ -62,7 +62,8 @@ void tslButton::setFontSize(int _fontSize) {
 /////////////////////////////////////////////////////////////////////
 
 
-bool tslButton::isClicked(Point clickPosition) {
+bool tslButton::isClicked() {
+	Point clickPosition = mousePosition(window);
 	if (clickPosition.x >= position.x && clickPosition.x <= position.x + height &&
 		clickPosition.y >= position.y && clickPosition.y <= position.y + width) {
 

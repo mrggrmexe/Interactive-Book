@@ -1,2 +1,19 @@
-﻿tslButton.obj : error LNK2005: "class Point __cdecl mousePos(class sf::RenderWindow &)" (?mousePos@@YA?AVPoint@@AEAVRenderWindow@sf@@@Z) already defined in Source.obj
-D:\Work\Interactive-Book\Application_WPF\appSFML\x64\Debug\appSFML.exe : fatal error LNK1169: one or more multiply defined symbols found
+﻿  Source.cpp
+  Point.cpp
+  tslButton.cpp
+C:\Users\overw\OneDrive\Документы\GitHub\Interactive-Book\Application_WPF\appSFML\appSFML\tslButton.cpp(21,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\overw\OneDrive\Документы\GitHub\Interactive-Book\Application_WPF\appSFML\appSFML\tslButton.cpp(21,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\overw\OneDrive\Документы\GitHub\Interactive-Book\Application_WPF\appSFML\appSFML\tslButton.cpp(23,46): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\overw\OneDrive\Документы\GitHub\Interactive-Book\Application_WPF\appSFML\appSFML\tslButton.cpp(23,39): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\overw\OneDrive\Документы\GitHub\Interactive-Book\Application_WPF\appSFML\appSFML\tslButton.cpp(31,106): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\overw\OneDrive\Документы\GitHub\Interactive-Book\Application_WPF\appSFML\appSFML\tslButton.cpp(31,30): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+  appSFML.vcxproj -> C:\Users\overw\OneDrive\Документы\GitHub\Interactive-Book\Application_WPF\appSFML\x64\Debug\appSFML.exe
