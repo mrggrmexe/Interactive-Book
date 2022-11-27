@@ -24,6 +24,12 @@
     <ClCompile Include="Point.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="tslTextBox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Header.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="tslButton.h">
@@ -33,6 +39,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Point.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="tslTextBox.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

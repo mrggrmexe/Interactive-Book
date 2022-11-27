@@ -135,14 +135,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Header.cpp" />
     <ClCompile Include="Source.cpp" />
     <ClCompile Include="Point.cpp" />
     <ClCompile Include="tslButton.cpp" />
+    <ClCompile Include="tslTextBox.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Header.h" />
     <ClInclude Include="Point.h" />
     <ClInclude Include="tslButton.h" />
+    <ClInclude Include="tslTextBox.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

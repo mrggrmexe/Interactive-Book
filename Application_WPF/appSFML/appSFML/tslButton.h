@@ -3,7 +3,6 @@
 #include <SFML/Graphics.hpp>
 #include "Point.h"
 
-
 class tslButton {
 public:
 

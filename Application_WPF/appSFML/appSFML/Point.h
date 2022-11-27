@@ -6,6 +6,9 @@ public:
 	int x, y;
 	Point(int _x, int _y)
 		: x(_x), y(_y) {}
+
+	Point() {} 
+
 };
 
 Point mousePosition(sf::RenderWindow& window);

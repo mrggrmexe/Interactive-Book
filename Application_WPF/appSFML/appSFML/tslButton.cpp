@@ -29,7 +29,6 @@ void tslButton::render() {
 	text.setString(buttonText);
 	// по умолчанию по центру (0.6 - отношение pt и px для шрифта Roboto)
 	text.setPosition(position.x + (width - fontSize * buttonText.size() * 0.6) / 2, position.y + height / 2 - fontSize * 0.6);
-	std::cout << height;
 	text.setFillColor(colorText);
 	window.draw(text);
 
@@ -64,8 +63,9 @@ void tslButton::setFontSize(int _fontSize) {
 
 bool tslButton::isClicked() {
 	Point clickPosition = mousePosition(window);
-	if (clickPosition.x >= position.x && clickPosition.x <= position.x + height &&
-		clickPosition.y >= position.y && clickPosition.y <= position.y + width) {
+	
+	if (clickPosition.x >= position.x && clickPosition.x <= position.x + width &&
+		clickPosition.y >= position.y && clickPosition.y <= position.y + height) {
 
 		return 1;
 	}
