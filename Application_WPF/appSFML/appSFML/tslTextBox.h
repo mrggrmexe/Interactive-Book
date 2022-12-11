@@ -17,6 +17,8 @@ public:
 	void setColorText(sf::Color _colorText);
 	void setMaxLetters(int _maxLetters);
 
+	std::string getText();
+
 	bool getFocus();
 
 	bool isClicked();

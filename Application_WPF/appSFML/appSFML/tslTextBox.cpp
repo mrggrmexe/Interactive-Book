@@ -86,6 +86,11 @@ bool tslTextBox::getFocus() {
 	return focused;
 }
 
+std::string tslTextBox::getText() {
+
+	return textBoxText;
+}
+
 /////////////////////////////////////////////////////////////////////
 
 
